@@ -1,2 +1,2 @@
 # Fithub
-First try at making an android app
+My first try at making an android app
